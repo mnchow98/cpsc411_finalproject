@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// HOME
 struct ContentView: View {
     @StateObject var cartManager = CartManager()
     
